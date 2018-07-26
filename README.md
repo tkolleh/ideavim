@@ -1,2 +1,2 @@
 # ideavim
-Vim and IdeaVim configuration store
+Vim and IdeaVim configuration
